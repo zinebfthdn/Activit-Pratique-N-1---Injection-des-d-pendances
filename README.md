@@ -33,12 +33,12 @@ Voici l'organisation des packages et des classes principales dans ce projet :
 #### **3. Package `pres` (présentation)**
 - **`Presentation`** : Exemple d'injection de dépendances par instanciation statique.
 
-  <img src="Screens/presentation" alt="Page de connexion" />
+  <img src="Screens/presentation.png" alt="Page de connexion" />
 
 
 - **`pres2`** : Exemple d'injection par instanciation dynamique.
 
-<img src="Screens/pres2" alt="Page de connexion" />
+<img src="Screens/pres2.png" alt="Page de connexion" />
 
 
 - **`presSpringXML`** : Exemple d'utilisation de Spring avec configuration XML.
